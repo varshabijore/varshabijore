@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha Bijore</h1>
- A passionate  **Data Analyst & ML Enthusiast**  exploring the intersection of  **data, AI, and business insights**.  
+
+ A passionate **Data Analyst & ML Enthusiast**  exploring the intersection of  **data, AI, and business insights**.
+ 
 📊 Skilled in data visualization, machine learning, and building intelligent dashboards. 
 
 🎓 Final-year Computer Science Student | Aspiring **Data Scientist & Analyst**  
